@@ -1,8 +1,9 @@
 git init
 git status
-git add -A
+git add -A(To Track the untracked file) or git add .(to push all the files)
 git commit -m "initial commit"
 git log ==> git commit history
 git remote add (path_name) (httpendpoint to the repo)
-git remote -v ==> to view the path
+git remote -v ==> to view the path created
 git push (path_name_given) master ==> pushes the code to the repo
+
