@@ -3,3 +3,6 @@ git status
 git add -A
 git commit -m "initial commit"
 git log ==> git commit history
+git remote add (path_name) (httpendpoint to the repo)
+git remote -v ==> to view the path
+git push (path_name_given) master ==> pushes the code to the repo
